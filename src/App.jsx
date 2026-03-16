@@ -302,7 +302,7 @@ const App = () => {
                 </a>
               </div>
             </div>
-            <div className="project-card slide-up">
+            {/* <div className="project-card slide-up">
               <div className="project-image">
                 <div className="project-placeholder">✨</div>
               </div>
@@ -316,7 +316,7 @@ const App = () => {
                   View Project →
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
