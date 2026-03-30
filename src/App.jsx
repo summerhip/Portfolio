@@ -280,7 +280,7 @@ const App = () => {
             </div>
             <div className="project-card slide-up">
               <div className="project-image">
-                <div className="project-placeholder">❌</div>
+                <div className="project-placeholder">🧮</div>
               </div>
               <h3>MathMatch</h3>
               <p>
