@@ -282,6 +282,29 @@ const App = () => {
               <div className="project-image">
                 <div className="project-placeholder">❌</div>
               </div>
+              <h3>MathMatch</h3>
+              <p>
+                MathMatch is a React + Vite card-matching game where players
+                pair equations that share the same solution across Algebra,
+                Geometry, and Precalculus categories. Each of the 90
+                hand-verified pairs has a unique answer to prevent accidental
+                cross-matches, and the chalkboard-themed UI keeps the experience
+                polished and cohesive.
+              </p>
+              <div className="project-links">
+                <a
+                  href="https://summerhip.github.io/MathMatch/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Project →
+                </a>
+              </div>
+            </div>
+            <div className="project-card slide-up">
+              <div className="project-image">
+                <div className="project-placeholder">❌</div>
+              </div>
               <h3>Tic Tac Toe</h3>
               <p>
                 This is a simple Tic Tac Toe game built with React 19 and Vite
@@ -302,21 +325,6 @@ const App = () => {
                 </a>
               </div>
             </div>
-            {/* <div className="project-card slide-up">
-              <div className="project-image">
-                <div className="project-placeholder">✨</div>
-              </div>
-              <h3>Project Three</h3>
-              <p>
-                Description of your third project. Mention any interesting
-                challenges you overcame.
-              </p>
-              <div className="project-links">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  View Project →
-                </a>
-              </div>
-            </div> */}
           </div>
         </div>
       </section>
