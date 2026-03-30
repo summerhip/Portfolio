@@ -143,7 +143,7 @@ const App = () => {
           <h2 className="section-title fade-in">Experience</h2>
           <div className="timeline">
             <div className="timeline-item slide-up">
-              <div className="timeline-date">2024 - Present</div>
+              <div className="timeline-date">2022 - Present</div>
               <div className="timeline-content">
                 <h3>Sr Associate Software Developer</h3>
                 <h4>SAS • Remote</h4>
@@ -167,14 +167,10 @@ const App = () => {
                   <span>Jest</span>
                   <span>Playwright</span>
                 </div>
-              </div>
-            </div>
-            <div className="timeline-item timeline-item-promoted slide-up">
-              <div className="timeline-date">2022 - 2024</div>
-              <div className="timeline-content">
-                <div className="promotion-badge">↑ Promoted</div>
-                <h3>Associate Software Developer</h3>
-                <h4>SAS • Remote</h4>
+                <div className="promotion-section">
+                  <div className="promotion-badge">↑ Promoted 2024</div>
+                  <p className="promotion-role">Associate Software Developer</p>
+                </div>
               </div>
             </div>
             <div className="timeline-item slide-up">
